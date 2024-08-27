@@ -6,4 +6,4 @@ Cloud detection is a necessary step before the application of remote sensing ima
 # Keywords
 Cloud detection, multi-scale feature extraction fusion, adaptive feature fusion, deep learning, daytime and nighttime remote sensing
 # Data
-The dataset used in this work is avaliable on:...
+The dataset used in this work is avaliable on: https://doi.org/10.57760/sciencedb.12495.
